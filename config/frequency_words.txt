@@ -13,6 +13,10 @@
 # 文件分为两个区域：
 #   [GLOBAL_FILTER]  - 全局过滤区：排除不想看的内容
 [WORD_GROUPS]
+terror attack
+security
+bomb
+militant
 非洲
 Africa
 中非
